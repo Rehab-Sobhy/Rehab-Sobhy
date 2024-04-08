@@ -24,11 +24,10 @@ hi, i'm [Rehab Sobhy](https://1842972.me/), a passionate self-taught Flutter dev
 <!--START_SECTION:waka-->
 
 ```txt
-dart   56 mins         ██████████▒░░░░░░░░░░░░░░   41.79 %
-JSON         29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-cpp   28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-
-Other        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+dart   56 mins    ██████████▒░░░░░░░░░░░░░░   41.79 %
+JSON   29 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+cpp   28 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
+Other  8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
