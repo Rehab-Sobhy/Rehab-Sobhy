@@ -36,7 +36,23 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+## 📊 My Stats:
 
+<p align="center">
+## 📊 My Stats:
+
+<p align="center">
+    <a href="https://github.com/ahmdZhran/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmdZhran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdZhran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<a href="https://github.com/ahmdZhran/github-readme-stats"><img alt="ahmdZhran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmdZhran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ahmdZhran/github-readme-stats"><img alt="ahmdZhran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdZhran&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+  
+</p>
+<br>
 
 📈 my github stats
 
@@ -45,8 +61,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ahmedzhran/" target="_blank">
-        <img src="https://www.linkedin.com/in/rehab-sobhy-94910b274?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   <div align="center">
+    <a href="https://www.linkedin.com/in/rehab-sobhy-94910b274/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
   <a href="mailto:rehabsobhy.eng@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
