@@ -12,8 +12,9 @@ hi, i'm [Rehab Sobhy](https://1842972.me/), a passionate self-taught Flutter dev
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/androidstudio/androidstudio.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -39,20 +40,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## 📊 My Stats:
 
 <p align="center">
-## 📊 My Stats:
 
-<p align="center">
-    <a href="https://github.com/ahmdZhran/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmdZhran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdZhran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<a href="https://github.com/ahmdZhran/github-readme-stats"><img alt="ahmdZhran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmdZhran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/ahmdZhran/github-readme-stats"><img alt="ahmdZhran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdZhran&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
-  
-</p>
-<br>
 
 📈 my github stats
 
