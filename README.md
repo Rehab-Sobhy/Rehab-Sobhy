@@ -11,7 +11,7 @@ hi, i'm [Rehab Sobhy](https://1842972.me/), a passionate self-taught Flutter dev
 **languages and tools:**  
 <div>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,postman,figma,vscode,androidstudio,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,json,figma,vscode,androidstudio,git&theme=dark" />
   </a>
 </div>
 
