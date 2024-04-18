@@ -38,7 +38,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1842972&show_icons=true&theme=gotham" alt="rehabsobhy"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rehab Sobhy&show_icons=true&theme=gotham" alt="rehabsobhy"/>
 
 ## 🤝 Connect With Me:
 
