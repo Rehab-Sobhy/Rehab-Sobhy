@@ -27,8 +27,6 @@ Other  8 mins     █▓░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a Food 🥺👉👈
-
 
 
 ## 📊 My Stats:
